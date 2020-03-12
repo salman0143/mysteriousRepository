@@ -31,7 +31,7 @@ public class MVPMain {
 	public static void main(String[] args) throws Exception {
 
 		// put your fileset path or user command line argument
-		String filePath = "/Users/pavelsavinov/tuenti";
+		String filePath = "C:/Users/SALMAN TYAGI/abyat";
 
 		File fileSet = new File(filePath);
 
